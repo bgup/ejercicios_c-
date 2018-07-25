@@ -1,0 +1,7 @@
+D:\ejercicio11\ejercicio11\ejercicio11\obj\Debug\ejercicio11.csprojAssemblyReference.cache
+D:\ejercicio11\ejercicio11\ejercicio11\obj\Debug\ejercicio11.csproj.CoreCompileInputs.cache
+D:\ejercicio11\ejercicio11\ejercicio11\bin\Debug\ejercicio11.exe.config
+D:\ejercicio11\ejercicio11\ejercicio11\bin\Debug\ejercicio11.exe
+D:\ejercicio11\ejercicio11\ejercicio11\bin\Debug\ejercicio11.pdb
+D:\ejercicio11\ejercicio11\ejercicio11\obj\Debug\ejercicio11.exe
+D:\ejercicio11\ejercicio11\ejercicio11\obj\Debug\ejercicio11.pdb

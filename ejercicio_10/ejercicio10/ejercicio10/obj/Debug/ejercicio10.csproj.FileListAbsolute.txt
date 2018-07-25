@@ -1,0 +1,7 @@
+D:\ejercicio_10\ejercicio10\ejercicio10\bin\Debug\ejercicio10.exe.config
+D:\ejercicio_10\ejercicio10\ejercicio10\bin\Debug\ejercicio10.exe
+D:\ejercicio_10\ejercicio10\ejercicio10\bin\Debug\ejercicio10.pdb
+D:\ejercicio_10\ejercicio10\ejercicio10\obj\Debug\ejercicio10.csprojAssemblyReference.cache
+D:\ejercicio_10\ejercicio10\ejercicio10\obj\Debug\ejercicio10.csproj.CoreCompileInputs.cache
+D:\ejercicio_10\ejercicio10\ejercicio10\obj\Debug\ejercicio10.exe
+D:\ejercicio_10\ejercicio10\ejercicio10\obj\Debug\ejercicio10.pdb

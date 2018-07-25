@@ -1,0 +1,153 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace holamundo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //Este es un programa de Hola mundo
+
+            /* 
+            int num1 = 123;
+            decimal num = 1.34m;
+            bool var3 = true;
+            string cadena = "sadas";
+
+
+            Console.WriteLine("El valor de el entero es:{0}", num1);
+            Console.WriteLine("El valor de el boleano:{0}", var3);
+            Console.WriteLine("la cadena es :{0}", cadena);
+            Console.ReadKey();
+            */
+
+
+            /* Console.WriteLine("Escriba la longitud:");
+             string l = Console.ReadLine();
+             double L = double.Parse(l);
+             Console.WriteLine("el valor es{0}", L);
+             */
+            /*
+           Console.WriteLine("Ingrese un numero:");
+           string num1 = Console.ReadLine();
+           int num1parseado = int.Parse(num1);
+           Console.WriteLine("Ingrese un numero");
+           string num2 = Console.ReadLine();
+           int num2parseado = int.Parse(num2);
+
+           Console.WriteLine("la suma de los numeros{0}", num1parseado + num2parseado);
+
+           if (num1parseado > num2parseado)
+           {
+               Console.WriteLine("El primer numero es mayor");
+
+           }
+           else
+           {
+               Console.WriteLine("El segundo numero es mayor ");
+           }
+           */
+            /*
+             Console.WriteLine("Ingrese un numero:");
+             string num1 = Console.ReadLine();
+             int num1parseado = int.Parse(num1);
+             Console.WriteLine("Ingrese un numero");
+             string num2 = Console.ReadLine();
+             int num2parseado = int.Parse(num2);
+
+             Console.WriteLine("la multiplicacion de los numeros{0}", num1parseado*num2parseado);
+
+
+             */
+            /*
+           Console.WriteLine("ingrese el ano actual:");
+           string anoactual = Console.ReadLine();
+           int anoactual1 = int.Parse(anoactual);
+           Console.WriteLine("ingrese el ano de nacimiento");
+           string anonacimiento = Console.ReadLine();
+           */
+
+            /*
+            Console.WriteLine("ingrese la materia numero 1:");
+            string materia1 = Console.ReadLine();
+            int mat1 = int.Parse(materia1);
+
+            Console.WriteLine("ingrese la materia numero 2:");
+            string materia2 = Console.ReadLine();
+            int mat2 = int.Parse(materia2);
+
+            Console.WriteLine("ingrese la materia numero 3:");
+            string materia3 = Console.ReadLine();
+            int mat3 = int.Parse(materia3);
+
+            Console.WriteLine("ingrese la materia numero 4:");
+            string materia4 = Console.ReadLine();
+            int mat4 = int.Parse(materia4);
+
+            Console.WriteLine("ingrese la materia numero 5:");
+            string materia5 = Console.ReadLine();
+            int mat5 = int.Parse(materia5);
+
+            Console.WriteLine("ingrese la materia numero 6:");
+            string materia6 = Console.ReadLine();
+            int mat6 = int.Parse(materia6);
+
+            Console.WriteLine("ingrese la materia numero 7:");
+            string materia7 = Console.ReadLine();
+            int mat7 = int.Parse(materia7);
+
+            Console.WriteLine("ingrese la materia numero 8:");
+            string materia8 = Console.ReadLine();
+            int mat8 = int.Parse(materia8);
+
+            Console.WriteLine("el promedio  de los ocho numeros es{0}", (mat1 + mat2 + mat3 + mat4 + mat5 + mat6 + mat7 + mat8) / (8));
+
+            Console.ReadKey();
+            */
+            /*
+            for (int i=0; i <= 5; i++)
+            {
+                Console.WriteLine(i);
+            }
+
+                Console.ReadKey(); */
+
+
+            /* int i = 0;
+             while (i < 5)
+             {
+                 Console.WriteLine(i);
+                 i++;
+
+             }
+
+             Console.ReadKey(); */
+
+
+
+
+            Console.WriteLine("ingrese las horas que trabajo para calcular el salario semanal");
+            string hora1 = Console.ReadLine();
+            int horas11 = int.Parse(hora1);
+            if (horas11 <= 40) {
+                int total = (horas11 * 16);
+                Console.WriteLine("el salario semanal si trabajo menos de 40 0 40 horas es {0}", total);
+
+            } else (horas11 >= 40){
+
+                int total = (((horas11 - 40) * 20) + 640);
+                Console.WriteLine("el salario semanal si trabajo mas de 40 horas es {0}", total);
+            }
+
+            Console.ReadKey();
+
+
+
+        }
+    }
+}
+
